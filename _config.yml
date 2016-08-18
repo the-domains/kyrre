@@ -1,0 +1,14 @@
+layout_spectrum: 0.4065137773286551
+typography_spectrum: 0.5998574348632246
+color:
+  brandStrength: 0.4707289692014456
+  lightness: 0.2174909373279661
+  saturation: 0.35738931340165436
+  rhythmicContrast: 0.5508883851580322
+  brandColors:
+    - '#0D0C07'
+    - '#5A88BC'
+    - '#CECFCA'
+    - '#714F22'
+    - '#DA703C'
+name: kyrre
